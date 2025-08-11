@@ -6,4 +6,8 @@ Ingredients:
 - 1 cauliflower
 - 1 onion
 - Spices
+<<<<<<< HEAD
 Tomatoes for extra flavor
+=======
+A pinch of garam masala
+>>>>>>> my-branch
